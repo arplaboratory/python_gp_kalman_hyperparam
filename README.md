@@ -1,5 +1,7 @@
 # parallel-gps
 
+Run the SSGP_implementation.ipynb implementation additional stuff later. Also you will need to install Gpytorch https://gpytorch.ai/
+
 Companion code leveraging [GPflow](https://gpflow.readthedocs.io/en/master/) for the paper Temporal Gaussian Process Regression in Logarithmic Time.
 
 Please cite the following paper [(arXiv preprint)](https://arxiv.org/abs/2102.09964) to use the code
