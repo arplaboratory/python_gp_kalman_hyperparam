@@ -1,3 +1,4 @@
+# Not Clean Yet, To Be Tested --- Jeff/Guanrui
 # parallel-gps
 
 Run the SSGP_implementation.ipynb implementation additional stuff later. Also you will need to install Gpytorch https://gpytorch.ai/
